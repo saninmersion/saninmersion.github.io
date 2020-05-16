@@ -1,0 +1,10 @@
+<svg width="4000" height="4000" viewBox="0 0 4000 4000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4000" height="4000" fill="white"/>
+<circle cx="1981" cy="1981" r="1625" fill="black"/>
+<line x1="1800.5" y1="500" x2="1800.5" y2="3500" stroke="black"/>
+<line x1="490" y1="1999.5" x2="3500" y2="1999.5" stroke="black"/>
+<line x1="490" y1="2199.5" x2="3500" y2="2199.5" stroke="black"/>
+<line x1="516" y1="1799.5" x2="3526" y2="1799.5" stroke="black"/>
+<path d="M1459 2231H747C824 2706 1195 3115 1784 3213V1930H730C768 1050 1459 780.333 1784 748V1605" stroke="white" stroke-width="150"/>
+<path d="M2503 1730H3215C3138 1255 2767 846 2178 748V2031H3232C3194 2911 2503 3180.67 2178 3213V2356" stroke="white" stroke-width="150"/>
+</svg>
